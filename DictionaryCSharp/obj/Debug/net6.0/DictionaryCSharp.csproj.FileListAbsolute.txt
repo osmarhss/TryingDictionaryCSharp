@@ -1,0 +1,15 @@
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\bin\Debug\net6.0\DictionaryCSharp.exe
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\bin\Debug\net6.0\DictionaryCSharp.deps.json
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\bin\Debug\net6.0\DictionaryCSharp.runtimeconfig.json
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\bin\Debug\net6.0\DictionaryCSharp.dll
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\bin\Debug\net6.0\DictionaryCSharp.pdb
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\DictionaryCSharp.csproj.AssemblyReference.cache
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\DictionaryCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\DictionaryCSharp.AssemblyInfoInputs.cache
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\DictionaryCSharp.AssemblyInfo.cs
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\DictionaryCSharp.csproj.CoreCompileInputs.cache
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\DictionaryCSharp.dll
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\refint\DictionaryCSharp.dll
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\DictionaryCSharp.pdb
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\DictionaryCSharp.genruntimeconfig.cache
+C:\Users\osmar\Documents\DictionaryCSharp\DictionaryCSharp\obj\Debug\net6.0\ref\DictionaryCSharp.dll

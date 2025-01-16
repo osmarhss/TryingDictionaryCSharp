@@ -1,5 +1,7 @@
 ﻿using DictionaryCSharp;
 
+// Testando a classe Dictionary, ainda há melhorias a serem feitas
+
 Dictionary<int, Aluno> alunos = new Dictionary<int, Aluno>();
 
 bool adicionar = true;
@@ -48,11 +50,12 @@ foreach (var item in alunos)
 }
 
 AlterarNota();
-ExibirColecao();
+ExibirColecao(alunos);
 RemoverAluno();
-ExibirColecao();
+ExibirColecao(alunos);
 AdicionarNovoAluno();
-ExibirColecao();
+ExibirColecao(alunos);
+OrdenarColecaoPelaChave(alunos);
 
 void AlterarNota()
 {
@@ -116,11 +119,21 @@ void AdicionarNovoAluno()
     }
 }
 
-void ExibirColecao()
+void ExibirColecao(Dictionary<int, Aluno> alunos)
 {
     Console.WriteLine("Agora vamos exibir a coleção alunos<int, Aluno>");
 
     foreach (var item in alunos)
+    {
+        Console.WriteLine($"{item.Key} - {item.Value.Nome}, {item.Value.Nota}");
+    }
+}
+
+void OrdenarColecaoPelaChave(Dictionary<int, Aluno> alunos)
+{
+    Console.WriteLine("Ordenando a lista");
+    var alunosOrdenados = alunos.OrderBy(x => x.Key).ToList();
+    foreach (var item in alunosOrdenados)
     {
         Console.WriteLine($"{item.Key} - {item.Value.Nome}, {item.Value.Nota}");
     }
